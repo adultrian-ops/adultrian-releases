@@ -7,13 +7,13 @@
       "bundleIdentifier": "com.adultrian.stream",
       "developerName": "Adultrian",
       "version": "1.0.3",
-      "versionDate": "2026-11-18T06:03:08Z",
+      "versionDate": "2026-11-18T06:15:20Z",
       "versionDescription": "Official iOS release for Adultrian streaming with censorship bypass.",
-      "downloadURL": "https://github.com/dev-vyas27/gdrive-stream-app/releases/download/v1.0.3/adultrian-1.0.3.ipa",
+      "downloadURL": "https://github.com/adultrian-ops/adultrian-releases/releases/download/v1.0.3/adultrian-1.0.3.ipa",
       "localizedDescription": "High quality video streaming from Google Drive with on-device censorship bypass and ad blocker.",
       "iconURL": "https://downloads.adultrian.com/icon.png",
       "tintColor": "B3173A",
-      "size": 13422643,
+      "size": 13422553,
       "screenshotURLs": []
     }
   ]
